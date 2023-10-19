@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPshare", "DPshare.csproj", "{EA0475D5-E8CF-4D69-B657-9D87A4D6D0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0475D5-E8CF-4D69-B657-9D87A4D6D0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0475D5-E8CF-4D69-B657-9D87A4D6D0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0475D5-E8CF-4D69-B657-9D87A4D6D0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0475D5-E8CF-4D69-B657-9D87A4D6D0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7537CDDB-5275-4374-9C99-90835A58CE02}
+	EndGlobalSection
+EndGlobal
